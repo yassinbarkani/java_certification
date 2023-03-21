@@ -1,5 +1,3 @@
-package PackageTests;
-
 import java.util.List;
 
 public class PackageTests {
