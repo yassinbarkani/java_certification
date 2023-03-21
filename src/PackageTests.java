@@ -14,7 +14,7 @@ public class PackageTests {
 
         List<String> possibleNames= List.of(args);
         for (String name : possibleNames) {
-            System.out.println("Maybe Pug should be called: " + name);   //  <Line 3>
+            System.out.println("Maybe Test should be called: " + name);   //  <Line 3>
         }
     }
 }
